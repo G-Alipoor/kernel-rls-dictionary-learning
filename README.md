@@ -73,7 +73,7 @@ If you use this code or refer to this work, please cite the following:
 ## 🔗 Additional Links
 
 - 📄 [Published Paper on Elsevier](https://doi.org/10.1016/j.dsp.2023.104159)
-- 📄 [arXiv Preprint](https://arxiv.org/abs/2506.xxxxx)
+- 📄 [arXiv Preprint](https://arxiv.org/abs/2507.01636)
 
 ---
 
